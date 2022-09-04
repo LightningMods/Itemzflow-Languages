@@ -2,7 +2,8 @@
 
 **NOTE:** These numbers and languages are determined by Sony and are all the current system languages supported though FW 9.00.
 
-**Instructions:** 
+## **Instructions:**
+
 - Fork the repository, edit your `lang.ini` ONLY edit the right side of the = in the INI.
 `i.e STR_NOT_FOUND=TEST TEXT HIT` you will edit ONLY this part `TEST TEXT HIT` **NOT** this part `STR_NOT_FOUND`.  
 - After you translate the **WHOLE** INI submit a pull request to this repository.
