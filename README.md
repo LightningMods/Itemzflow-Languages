@@ -20,7 +20,7 @@
 | 2/lang.ini | French (France)          |
 | 3/lang.ini |  Spanish (Spain)          |
 | 4/lang.ini |  German                   |
-| 5/lang.ini |  Italian                  |
+| 5/lang.ini |  ✓ Italian                  |
 | 6/lang.ini | Dutch                    |
 | 7/lang.ini |  Portuguese (Portugal)    |
 | 8/lang.ini |  Russian                  |
@@ -39,7 +39,7 @@
 | 22/lang.ini | French (Canada)          |
 | 23/lang.ini |  Czech                    |
 | 24/lang.ini | Hungarian                |
-| 25/lang.ini | Greek                    |
+| 25/lang.ini | ✓ Greek                    |
 | 26/lang.ini | Romanian                 |
 | 27/lang.ini | Thai                     |
 | 28/lang.ini | Vietnamese               |
