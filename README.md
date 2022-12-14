@@ -15,7 +15,7 @@
 | [`0/lang.ini`](0/lang.ini)   | Japanese                 |            |
 | [`1/lang.ini`](1/lang.ini)   | English (United States)  | ✓          |
 | [`2/lang.ini`](2/lang.ini)   | French (France)          |            |
-| [`3/lang.ini`](3/lang.ini)   | Spanish (Spain)          |            |
+| [`3/lang.ini`](3/lang.ini)   | Spanish (Spain)          | ✓          |
 | [`4/lang.ini`](4/lang.ini)   | German                   |            |
 | [`5/lang.ini`](5/lang.ini)   | Italian                  | ✓          |
 | [`6/lang.ini`](6/lang.ini)   | Dutch                    |            |
