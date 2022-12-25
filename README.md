@@ -31,7 +31,7 @@
 | [`16/lang.ini`](16/lang.ini) | Polish                   |            |
 | [`17/lang.ini`](17/lang.ini) | Portuguese (Brazil)      |            |
 | [`18/lang.ini`](18/lang.ini) | English (United Kingdom) |            |
-| [`19/lang.ini`](19/lang.ini) | Turkish                  |            |
+| [`19/lang.ini`](19/lang.ini) | Turkish                  |   ✓        |
 | [`20/lang.ini`](20/lang.ini) | Spanish (Latin America)  |            |
 | [`22/lang.ini`](22/lang.ini) | French (Canada)          |            |
 | [`23/lang.ini`](23/lang.ini) | Czech                    |            |
