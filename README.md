@@ -2,6 +2,8 @@
 
 **NOTE:** These numbers and languages are determined by Sony and are all the current system languages supported though FW 9.00.
 
+**important:** Itemzflow currently does NOT support rendering Arabic text because of a lack of Harfbuzz, an pull requests open for Arabic without implmenting harfbuzz into itemzflow will be closed and not merged 
+
 ## **Instructions:**
 
 - Fork the repository, edit your `lang.ini` ONLY edit the right side of the = in the INI.
