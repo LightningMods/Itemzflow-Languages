@@ -22,7 +22,7 @@
 | [`5/lang.ini`](5/lang.ini)   | Italian                  | ✓          |
 | [`6/lang.ini`](6/lang.ini)   | Dutch                    |            |
 | [`7/lang.ini`](7/lang.ini)   | Portuguese (Portugal)    |            |
-| [`8/lang.ini`](8/lang.ini)   | Russian                  |            |
+| [`8/lang.ini`](8/lang.ini)   | Russian                  | ✓            |
 | [`9/lang.ini`](9/lang.ini)   | Korean                   |            |
 | [`10/lang.ini`](10/lang.ini) | Chinese (Traditional)    |            |
 | [`11/lang.ini`](11/lang.ini) | Chinese (Simplified)     |            |
