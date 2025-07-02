@@ -43,6 +43,7 @@
 | [`27/lang.ini`](27/lang.ini) | Thai                     | ✓           |
 | [`28/lang.ini`](28/lang.ini) | Vietnamese               |            |
 | [`29/lang.ini`](29/lang.ini) | Indonesian               |            |
+| [`30/lang.ini`](30/lang.ini) | Ukrainian               |            |
 
 Note: strings are subject to change, only English (`1/lang.ini`) will be kept up to date. The community that "needs" another language will be expected to submit translations.
 
